@@ -1,4 +1,5 @@
 # 笨方法学 Python 学习笔记
+## 写的什么JB玩意
 > 《Learn Python the Hard Way》—— Zed A.Shaw 著
 
 ## 介绍
